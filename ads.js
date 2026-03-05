@@ -16,12 +16,12 @@
     // Create first script (config)
     var s1=document.createElement("script");
     s1.type="text/javascript";
-    s1.innerHTML="atOptions={'key':'f6df8246c882e2dacfdc221140f50252','format':'iframe','height':60,'width':468,'params':{}};";
+    s1.innerHTML="atOptions={'key':'12424e3bfec4f392838a56944e6ceeed','format':'iframe','height':60,'width':468,'params':{}};";
 
     // Create second script (invoke)
     var s2=document.createElement("script");
     s2.type="text/javascript";
-    s2.src="https://prematureremainingpestilent.com/f6df8246c882e2dacfdc221140f50252/invoke.js";
+    s2.src="https://summonteacherjunction.com/12424e3bfec4f392838a56944e6ceeed/invoke.js";
     s2.async=true;
 
     div.appendChild(s1);
